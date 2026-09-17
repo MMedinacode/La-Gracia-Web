@@ -4,7 +4,7 @@
    ⚠️ SIN PRECIOS. No publican precios en ningún canal. Los tres primeros
    productos son los "Destacados del menú" que publica SU PROPIA ficha de
    Google, con su nombre exacto. El resto se identifica en sus propias
-   fotos o lo nombran sus reseñas reales. Ninguno inventado. Pedirle la
+   fotos o lo nombran nuestras reseñas. Ninguno inventado. Pedirle la
    carta al local para cargar los precios.
    ============================================================ */
 
@@ -14,17 +14,17 @@ const MENU = {
     "items": [
       {
         "n": "Roll de Canela Español",
-        "d": "Destacado del menú en su propia ficha de Google",
+        "d": "Uno de los destacados del menú",
         "img": "rollos-canela.jpg"
       },
       {
         "n": "Kuchen Arándanos la Floresta",
-        "d": "Destacado del menú en su propia ficha de Google",
+        "d": "Uno de los destacados del menú",
         "img": "kuchen.jpg"
       },
       {
         "n": "Muffins Francés",
-        "d": "Destacado del menú en su propia ficha de Google",
+        "d": "Uno de los destacados del menú",
         "img": "muffins.jpg"
       },
       {
@@ -52,7 +52,7 @@ const MENU = {
     "items": [
       {
         "n": "Pan amasado",
-        "d": "\"Pan amasado riquísimo\" — cita textual de una reseña real"
+        "d": "\"Pan amasado riquísimo\" — cita textual de una reseña"
       }
     ]
   },
@@ -65,7 +65,7 @@ const MENU = {
       },
       {
         "n": "Desayuno",
-        "d": "\"Ideal para tomar desayuno, hay de todo y bueno\" — reseña real"
+        "d": "\"Ideal para tomar desayuno, hay de todo y bueno\" — reseña"
       }
     ]
   },
@@ -83,7 +83,7 @@ const MENU = {
       },
       {
         "n": "Abarrotes",
-        "d": "Está en el nombre del negocio y se ve en sus fotos"
+        "d": "Está en el nombre del negocio"
       }
     ]
   }
